@@ -19,6 +19,8 @@ Streamlit을 활용해 기본 UI 컴포넌트, 데이터 표시, 차트 시각�
 2. pip install -r requirement.txt
 3. streamlit run ./main.py
 
+---
+
 ## 📌 Features
 
 ### 🧩 Task 1 — 기본 UI 컴포넌트
